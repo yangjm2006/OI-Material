@@ -1,2 +1,1 @@
-# OI-Material
-
+这是我在学习OI和ACM中用过的资料。
